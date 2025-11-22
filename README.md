@@ -1,4 +1,4 @@
-## 🚀 About Me  
+## About Me  
 I am a motivated BSc Computer Science student** looking for opportunities to grow as a developer.  
 I have strong problem-solving skills and a passion for software development, AI, and Machine Learning.  
 I am experienced with C++, Java, and modern full-stack development tools.  
@@ -6,7 +6,7 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -20,8 +20,8 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 </p>
 
 ---
-<!--
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BPillay27&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -29,8 +29,8 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 </p>
 
 ---
--->
-## 🏆 GitHub Streaks
+
+## GitHub Streaks
 
 <p align="left">
 <img height="180em" src="https://streak-stats.demolab.com?user=BPillay27&theme=tokyonight&hide_border=true" />
@@ -38,7 +38,7 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <p align="left">
 <a href="mailto:byronpillay2704@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
