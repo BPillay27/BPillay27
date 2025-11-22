@@ -24,8 +24,8 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 ## 📊 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BPillay27&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPillay27&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 ## 🏆 GitHub Streaks
 
 <p align="left">
-<img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=BPillay27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -41,6 +41,6 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 ## 📫 Contact Me
 
 <p align="left">
-<a href="mailto:byronpillay27-4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:byronpillay2704@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/byron-pillay-46445a245/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
