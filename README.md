@@ -20,7 +20,7 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -29,7 +29,7 @@ I enjoy solving technical challenges, learning new technologies, and working bot
 </p>
 
 ---
-
+-->
 ## 🏆 GitHub Streaks
 
 <p align="left">
