@@ -1,5 +1,5 @@
 ## About Me  
-I am a motivated BSc Computer Science student** looking for opportunities to grow as a developer.  
+I am a motivated BSc Computer Science student looking for opportunities to grow as a developer.  
 I have strong problem-solving skills and a passion for software development, AI, and Machine Learning.  
 I am experienced with C++, Java, and modern full-stack development tools.  
 I enjoy solving technical challenges, learning new technologies, and working both independently and in teams.
